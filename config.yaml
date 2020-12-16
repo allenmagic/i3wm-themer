@@ -1,0 +1,5 @@
+i3-config: /home/allenmagic/.config/i3/config
+polybar-config: /home/allenmagic/.config/polybar/config
+xresources: /home/allenmagic/.Xresources
+nitrogen-config: /home/allenmagic/.config/nitrogen/bg-saved.cfg
+wallpaper-path: /home/allenmagic/.config/nitrogen/
